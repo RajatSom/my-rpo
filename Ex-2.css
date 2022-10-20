@@ -12,7 +12,7 @@ body {
 }
 
 #mainNavbar .nav-link:hover {
-    color: red;
+    color: orange;
 }
 
 #mainNavbar {
